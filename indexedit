@@ -2,11 +2,6 @@
 <html>
     
     <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Website made for class</title>
-        <meta name="description" content="An interactive getting started guide for Class.">
-        <link rel="stylesheet" href="main.css">
          <!-- Google tag (gtag.js) -->
 <script async='async' src='https://www.googletagmanager.com/gtag/js?id=G-04WZYM57SH'/>
 <script>
@@ -16,11 +11,16 @@
 
   gtag(&#39;config&#39;, &#39;G-04WZYM57SH&#39;);
 </script>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>GETTING STARTED WITH BRACKETS</title>
+        <meta name="description" content="An interactive getting started guide for Brackets.">
+        <link rel="stylesheet" href="main.css">
     </head>
     <body>
         
-        <h1>Cool heading to catch your attention</h1>
-        <h2>This has been edited</h2>
+        <h1>GETTING STARTED WITH BRACKETS</h1>
+        <h2>This is your guide!</h2>
         
         <!--
             MADE WITH <3 AND JAVASCRIPT
